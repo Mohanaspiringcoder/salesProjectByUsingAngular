@@ -1,0 +1,15 @@
+.lowVolume{
+    background-color: red;
+}
+.goodVolume{
+background-color: rgb(213, 220, 213);
+}
+table{
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+form{
+    margin-left: 5%;
+    margin-top: 5%;
+}
